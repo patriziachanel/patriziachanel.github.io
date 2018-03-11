@@ -1,0 +1,72 @@
+body{
+	background-color:white;
+}
+
+.smallimage{
+	width: 100%;
+}
+
+.col-md-12{
+	text-align: center;
+	padding-top: 0vh;
+	padding-bottom: 2vh;
+	background-color: 898A78;
+	font-size: 30px;
+	font-family: Console, italic;
+}
+
+.col-md-4{
+	display: block;
+	width: 100%;
+}
+
+.imgmiddle svg {
+	display: block;
+	margin: 0 auto;
+}
+
+.row{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+}
+
+p{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Times New Roman";
+	color: #3C788A;
+	font-family: 'Amatic SC', cursive;
+}
+
+.img-width{
+	width: 100%;
+}
+
+.rounded-img{
+	border-radius: 50%;
+}
+
+.text{
+	text-align: center;
+	font-size: 40px;
+	color: #3C788A;
+	font-family: 'Amatic SC', cursive;
+
+}
+
+.carousel-inner{
+	padding-bottom: 8vh
+}
+
+.font{
+	font-size: 100px;
+	color: #3C788A;
+}
+
+.form{
+	text-align: center;
+}
+
+.logo{
+	margin-top: 10vh;
+}
